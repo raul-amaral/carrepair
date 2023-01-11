@@ -232,12 +232,12 @@ sup {
 }
 
 a {
-    color: #D81324;
+    color: #31d2f2;
     text-decoration: none
 }
 
 a:hover {
-    color: #ad0f1d
+    color: #31d2f2
 }
 
 a:not([href]):not([class]),
@@ -4138,7 +4138,7 @@ fieldset:disabled .btn {
 .dropdown-item:active {
     color: #fff;
     text-decoration: none;
-    background-color: #D81324
+    background-color: #3199f9
 }
 
 .dropdown-item.disabled,
